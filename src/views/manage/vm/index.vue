@@ -372,7 +372,7 @@ function getRegionList() {
   });
 }
 
-
+// 初始化始化数据
 getVmTypeList();
 getNodeList();
 getPartnerList();
